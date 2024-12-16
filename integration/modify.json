@@ -2,7 +2,7 @@
   {
     "file": "src/main/index.ts",
     "marker": "// IMPORTS",
-    "code": "import { component2 } from ../../ap/component-2"
+    "code": "import { component2 } from \"../../ap/component-2\""
   },
   {
     "file": "src/main/index.ts",
