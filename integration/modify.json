@@ -1,11 +1,11 @@
 [
   {
-    "file": "src/main/index.js",
+    "file": "src/main/index.ts",
     "marker": "// IMPORTS",
     "code": "import { component2 } from ../../ap/component-2"
   },
   {
-    "file": "src/main/index.js",
+    "file": "src/main/index.ts",
     "marker": "// COMPONENTS_INIT",
     "code": "component2();"
   }
